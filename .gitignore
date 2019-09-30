@@ -1,0 +1,9 @@
+*.pyc
+.venv/
+__pycache__/
+*.log
+*.swp
+*.swo
+tags
+*.exe
+*.bat
